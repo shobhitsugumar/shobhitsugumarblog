@@ -1,4 +1,4 @@
-baseURL = ''
+baseURL = 'shobhitsugumar.github.io'
 languageCode = 'en-us'
-title = 'My Blog'
-theme = 'PaperMod'
+title = "My Blog"
+theme: PaperMod
