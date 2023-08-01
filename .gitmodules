@@ -8,6 +8,6 @@
 
 [submodule "hugo-My-Blog"]
     path = hugo-My-Blog
-	url = https://github.com/shobhitsugumar/hugo-My-Blog.git
+	url = "https://github.com/shobhitsugumar/hugo-My-Blog.git"
 
 
