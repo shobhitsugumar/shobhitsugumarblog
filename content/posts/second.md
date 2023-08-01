@@ -8,7 +8,7 @@ A data structure is a method of organizing data in a virtual system. Think of se
 
 Together, data structures and algorithms combine and allow programmers to build whatever computer programs they’d like. Deep study into data structures and algorithms ensures well-optimized and efficient code.
 
-### Common Data Structures and Algorithms
+### Common Data Structures 
 
 - Linked lists
 - Stacks
