@@ -4,4 +4,10 @@
 	url = "https://github.com/adityatelange/hugo-PaperMod.git"
 [submodule "public"]
 	path = public
-	url = "https://shobhitsugumar.github.io"
+	url = "https://github.com/shobhitsugumar/shobhitsugumar.github.io.git"
+
+[submodule "hugo-My-Blog"]
+  path = hugo-My-Blog
+  url = "https://github.com/shobhitsugumar/shobhitsugumar.github.io.git"
+
+
