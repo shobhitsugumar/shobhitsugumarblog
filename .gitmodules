@@ -7,7 +7,10 @@
 	url = "https://github.com/shobhitsugumar/shobhitsugumar.github.io.git"
 
 [submodule "hugo-My-Blog"]
-    path = hugo-My-Blog
+        path = hugo-My-Blog
 	url = "https://github.com/shobhitsugumar/hugo-My-Blog.git"
-
+[submodule "shobhitsugumar.github.io"]
+        path = shobhitsugumar.github.io
+        url = "https://github.com/shobhitsugumar/shobhitsugumar.github.io.git"
+   
 
